@@ -6,17 +6,17 @@ Un NOK au niveau des dépendances sera affiché:
 image:../images/update01.png[]
 
 [TIP]
-Une mise à jour des dépendances n'est pas a faire à chaque mise à jour du plugin.
+Une mise à jour des dépendances n'est pas à faire à chaque mise à jour du plugin.
 
-Jeedom devrait lancer de lui même la mise à jour des dépendances si le plugin considère qu'elle ne sont *NOK*.
-Cette validation est effectuée au 5 minutes.
+Jeedom devrait lancer de lui même la mise à jour des dépendances si le plugin considère qu'elles sont *NOK*.
+Cette validation est effectuée aux 5 minutes.
 
 
 La durée de cette opération peut varier en fonction de votre système (jusqu'à plus de 1h sur raspberry pi)
 
 
-Une fois les la mise à jour des dépendances complété, le démon se relancera automatiquement à la validation de Jeedom.
-Cette validation est effectuée au 5 minutes.
+Une fois les la mises à jour des dépendances complétées, le démon se relancera automatiquement à la validation de Jeedom.
+Cette validation est effectuée aux 5 minutes.
 
 
 [TIP]
